@@ -16,7 +16,7 @@ func input() {
 
 func degree() {
 	fmt.Print("Enter a Fahrenheit: ")
-	var F int
+	var F int64
 	fmt.Scanf("%f", F)
 
 	C := (F - 32) * 5 / 9
@@ -54,7 +54,7 @@ func main() {
 func f() {
 	fmt.Println(dogsName)
 
-	const x string = "Hello world!!!!!!"
+	const x = "Hello World"
 	fmt.Println(x)
 
 	var (
