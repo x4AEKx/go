@@ -1,3 +1,3 @@
-module github.com/x4aekx/go
+module go
 
 go 1.16

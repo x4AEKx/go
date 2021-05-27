@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/x4aekx/go/pkg/math"
+	"go/pkg/math"
 )
 
 func main() {
